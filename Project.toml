@@ -1,0 +1,9 @@
+name = "juancuks"
+uuid = "103340ef-12d4-4098-9beb-5c6c5f3839cc"
+authors = ["makloheker <ajulisaputra@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+URIParser = "30578b45-9adc-5946-b283-645ec420af67"
